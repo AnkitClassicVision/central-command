@@ -1,0 +1,4 @@
+[
+  {"id": "workstation", "label": "Workstation", "ssh": ["workstation"], "host": "workstation"},
+  {"id": "laptop", "label": "Laptop", "ssh": ["-o", "IdentitiesOnly=yes", "you@laptop.example.ts.net"], "host": "laptop"}
+]
